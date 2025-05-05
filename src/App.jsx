@@ -1,4 +1,4 @@
-rimport { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import "prismjs/themes/prism-tomorrow.css";
 import Editor from "react-simple-code-editor";
 import prism from "prismjs";
