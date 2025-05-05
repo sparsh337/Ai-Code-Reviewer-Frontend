@@ -1,5 +1,30 @@
 # React + Vite
+# 🧠 AI Code Reviewer – Frontend
 
+This is the **frontend** of the AI Code Reviewer web app, built using **React + Vite**. It allows users to input source code and receive automated reviews using an AI backend powered by OpenAI.
+
+> 🔗 **Live App**: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+
+---
+
+## 🚀 Features
+
+- 🌐 Clean UI for code input
+- 🤖 Connects to a backend AI service for code reviews
+- 📤 Sends code via POST request and displays AI feedback
+- ⚡ Built with fast and lightweight Vite
+- 📱 Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** (Vite)
+- **Axios** – for HTTP requests
+- **Tailwind CSS** – for styling *(optional)*
+- **Vercel** – for deployment
+
+---
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
