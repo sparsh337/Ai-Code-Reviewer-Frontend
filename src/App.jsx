@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+rimport { useState, useEffect } from "react";
 import "prismjs/themes/prism-tomorrow.css";
 import Editor from "react-simple-code-editor";
 import prism from "prismjs";
@@ -12,7 +12,7 @@ function App() {
   const [count, setCount] = useState(0);
   const [code, setCode] = useState(``);
 
-  const [review, setReview] = useState(``);
+  const [review, setReview] = useState(`Enter Code Here ...`);
 
   useEffect(() => {
     prism.highlightAll();
