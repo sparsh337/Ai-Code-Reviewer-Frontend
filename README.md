@@ -3,7 +3,7 @@
 
 This is the **frontend** of the AI Code Reviewer web app, built using **React + Vite**. It allows users to input source code and receive automated reviews using an AI backend powered by OpenAI.
 
-> 🔗 **Live App**: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+> 🔗 **Live App**: [https://your-vercel-url.vercel.app](https://code-reviewer-frontend-eight.vercel.app/)
 
 ---
 
