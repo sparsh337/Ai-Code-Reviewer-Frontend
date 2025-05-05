@@ -10,9 +10,9 @@ import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
-  const [code, setCode] = useState(``);
+  const [code, setCode] = useState(`Enter Code Here ...`);
 
-  const [review, setReview] = useState(`Enter Code Here ...`);
+  const [review, setReview] = useState(``);
 
   useEffect(() => {
     prism.highlightAll();
